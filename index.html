@@ -1,0 +1,61 @@
+---
+layout: default
+title: Fran Reyes
+tagline: (Eternal apprentice)
+---
+
+
+<div class="row">
+  <div class="span12">
+  <div class="hero-unit">
+    <h1>println "Hello ${user.name}"</h1>
+    <p>Welcome to my site!!</p>
+  </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="span10">
+    <h2>About me</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="span10">
+    Hi, my name is Fran Reyes. I'm a passionate software developer...
+  </div>
+</div>
+
+<div class="row">
+  <div class="span12">
+    <div class="alert">
+      <strong>Warning!<strong> this site is under beta, but I like the early delivery ;)
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="span10">
+    <h2> Where you can find me?</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="span1"style="margin-right: -8px">
+    <a href="http://twitter.com/fran_reyes"><img src="assets/images/twitter.png"/></a>
+  </div>
+  <div class="span1" style="margin-left: -8px">
+    <a href="http://es.linkedin.com/in/franreyesperdomo"><img src="assets/images/linkedin.png"/></a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="span10">
+    <h2>While, you can read my old posts:</h2>
+  </div>
+  <div class="span10">
+    <ul class="posts">
+      {% for post in site.posts %}
+        <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a> &raquo; <span>{{ post.date | date_to_string }}</span></li>
+      {% endfor %}
+  </ul>
+  </div>
+</div>
