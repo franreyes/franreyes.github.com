@@ -40,13 +40,13 @@ Un mapa de impacto podría quedar de la siguiente manera para un objetivo concre
 
 ![Alt text](http://impactmapping.org/site/im_example.png "Impact Mapping Example")
 
-Impact Mapping es una técnica fácil de realizar pero díficil de dominar ya que tiene relaciones con muchas otras técnicas/frameworks/modelos como User Personas, User Stores, Lean Startup, Design Thinking. 
+Impact Mapping es una técnica fácil de realizar pero díficil de dominar ya que tiene relación con otras muchas técnicas/frameworks/modelos como User Personas, User Stores, Lean Startup, Design Thinking. 
 
 Pero no os asustéis, no es una técnica para megaEmpresas, ni mucho menos (De hecho, si tenemos muchos objetivos hay que recurrir a otros trucos para manejarlos).
 
 Podéis usarla en cualquier proyecto porque lo interesante es realizarnos las preguntas.
 
-Si queréis profundizar más, podéis adquirir el [libro][1] o navegar por la página que tiene algunos recursos [interesantes][2]
+Si queréis profundizar más, podéis adquirir el [libro][1] o navegar por la página que tiene algunos [recursos interesantes][2]
 
 
 [1]: http://www.amazon.es/Impact-Mapping-software-products-projects-ebook/dp/B009KWDKVA
