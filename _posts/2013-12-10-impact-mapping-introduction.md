@@ -8,7 +8,7 @@ tags : [impact-mapping, business]
 Impact Mapping es una interesante técnica de planificación estratégica que ha popularizado Gojko Adzic tras públicar su [libro][1]:
 
 
-![Alt text](http://impactmapping.org/site/cover500.png "Impact Mapping Book")
+![Alt text](https://www.impactmapping.org/assets/im_template.png "Impact Mapping Book")
 
 
 Entre los beneficios de la técnica destacaría que:
@@ -38,7 +38,7 @@ Para realizarlo hay que responder a 4 preguntas que dibujarán un mapa con difer
 
 Un mapa de impacto podría quedar de la siguiente manera para un objetivo concreto. Incrementar el número de jugadores a 1 millón.
 
-![Alt text](http://impactmapping.org/site/im_example.png "Impact Mapping Example")
+![Alt text](https://www.impactmapping.org/assets/gaming_example.png "Impact Mapping Example")
 
 Impact Mapping es una técnica fácil de realizar pero díficil de dominar ya que tiene relación con otras muchas técnicas/frameworks/modelos como User Personas, User Stores, Lean Startup, Design Thinking. 
 
