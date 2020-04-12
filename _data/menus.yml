@@ -6,8 +6,8 @@
   url: /about/
   external: false
 
-- title: resources
-  url: /resources/
+- title: talks 
+  url: /talks/
   external: false # set true if you using external link, see bellow
 
 # Example:
