@@ -16,6 +16,6 @@ This blog is about my experience in software development.
 
 ##### social networks ✨
 
-- [LinkedIn](es.linkedin.com/in/franreyesperdomo)
-- [Github](github.com/{{ site.author.username }})
-- [Twitter](twitter.com/fran_reyes)
+- [LinkedIn](https://es.linkedin.com/in/franreyesperdomo)
+- [Github](https://github.com/{{ site.author.username }})
+- [Twitter](https://twitter.com/fran_reyes)
