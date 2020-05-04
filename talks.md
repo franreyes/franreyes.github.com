@@ -58,5 +58,5 @@ Este es el vídeo de la charla
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sXLCBcELu5Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-y estas son [las slides](http://buildingthepath.com/talk-cas-2017/). 
+y estas son [las slides](https://substantia.dev/talk-cas-2017/). 
 
