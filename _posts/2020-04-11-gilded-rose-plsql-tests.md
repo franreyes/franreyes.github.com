@@ -2,7 +2,6 @@
 layout: post
 title: "La kata Gilded Rose en PL/SQL: escribiendo los tests"
 date: 2020-04-11 16:27 +0100
-date: 2020-04-11 18:27 +0100
 tags: [testing, katas, refactoring, PL/SQL]
 ---
 
