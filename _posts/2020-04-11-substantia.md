@@ -14,9 +14,9 @@ En la filosofía premarxista, sustancia significaba el fundamento inmutable de t
 
 El desarrollo de software está totalmente conectado con otras muchas disciplinas. Tantas y tan conectadas que es difícil discernir cuál podría ser la esencia (o substancia) de la misma. Intentar entender cuales son las partes esenciales de la disciplina es parte necesaria para dominarla. O al menos, para no perder el tiempo dominando aspectos que dejan de tener valor a una velocidad apabullante. 
 
-Disponer de memoria, es decir, entender el trabajo de otros en el pasado juega un papel fundamental para construir cualquier conocimiento solido.
+Disponer de memoria, es decir, entender el trabajo de otros en el pasado juega un papel fundamental para construir cualquier conocimiento sólido.
 
-Es probable que nunca lleguemos conseguir tal reto pero estoy seguro de que será bastante enriquecedor intentar entender que <<está debajo>>.
+Es probable que nunca lleguemos conseguir tal reto, pero estoy seguro de que será bastante enriquecedor intentar entender que <<está debajo>>.
 
 ---
 [1] [Definición del diccionario filosófico marxista · 1946:293](http://www.filosofia.org/enc/ros/su4.htm)
